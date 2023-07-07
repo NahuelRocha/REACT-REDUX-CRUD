@@ -24,4 +24,4 @@
 - Install the dependencies and run the file CrudApplication
 - In the terminal, use the command npm install or pnpm install
 - Then use npm run dev
-###READY
+### READY
